@@ -68,7 +68,7 @@ npm run dev                 # http://localhost:3000
 
 ---
 
-## Environment Variables (backend/env)
+## Environment Variables (backend/.env)
 
 ```
 PORT=5000
